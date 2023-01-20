@@ -1,0 +1,23 @@
+{
+  "name": "cursowebpack",
+  "version": "1.0.0",
+  "description": "Webpack es un module bundler o empaquetador de módulos para JavaScript. Domina el uso de loaders y plugins para integrar tus herramientas favoritas a un entorno de desarrollo o producción. Optimiza tus proyectos con compresión y minificación de archivos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusRamon2192/cursoWebpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesusRamon2192/cursoWebpack/issues"
+  },
+  "homepage": "https://github.com/JesusRamon2192/cursoWebpack#readme",
+  "devDependencies": {
+    "webpack-cli": "^5.0.1"
+  }
+}
